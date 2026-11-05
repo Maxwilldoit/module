@@ -797,14 +797,14 @@
     },
     "mirrors/b11e1109b63ffbe6-bilibili.protobuf.request.js": {
       "url": "https://raw.githubusercontent.com/kokoryh/Sparkle/refs/heads/master/dist/bilibili.protobuf.request.js",
-      "sha256": "02135da7471f1f5d0e2592b6f8cee88ef4c122084fc151849c2fe07d51f3cf55",
+      "sha256": "61fc5eaded4cb28d2c21796d3fb92ae8b8c3896346bf16ad3f4f29f6e1db53d2",
       "modules": [
         "bilibili"
       ]
     },
     "mirrors/d8856a08f43970a3-bilibili.protobuf.response.js": {
       "url": "https://raw.githubusercontent.com/kokoryh/Sparkle/refs/heads/master/dist/bilibili.protobuf.response.js",
-      "sha256": "6fcfb97e8b46ea7d2fcbd8deb913099f37727fc5c5c3cf6440d2a0ef7577f8e3",
+      "sha256": "bfcc0970105056b51a02eb643931c8d4a8d9656f25a5c3f0d6fe9cf6b4d15f8e",
       "modules": [
         "bilibili"
       ]
