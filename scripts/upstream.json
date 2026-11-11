@@ -8,6 +8,13 @@
         "Adblock"
       ]
     },
+    "mirrors/f21a537f4a11afae-12306.js": {
+      "url": "https://github.com/ddgksf2013/Scripts/raw/master/12306.js",
+      "sha256": "4723bc2236835eea0a8b79529c832a9af1cfd37fa1b160becb3a4b51f9067cd5",
+      "modules": [
+        "Adblock"
+      ]
+    },
     "mirrors/5c73e78258207fb4-coolapk.js": {
       "url": "https://github.com/ddgksf2013/Scripts/raw/master/coolapk.js",
       "sha256": "79b28bcbeb4b7b150a21ed20d7d50d9cee2bb91ff5110e9f34dc3be54b0991e4",
@@ -249,6 +256,13 @@
         "Adblock"
       ]
     },
+    "mirrors/e5c5def3fc5ea2b2-chelaile.js": {
+      "url": "https://raw.githubusercontent.com/ddgksf2013/Scripts/refs/heads/master/chelaile.js",
+      "sha256": "5ac31e6d28f37526c61efac734e34211a55e4afde5f5bb8bea94eaa543c04e95",
+      "modules": [
+        "Adblock"
+      ]
+    },
     "mirrors/b6d2854e467177b4-coolapk.js": {
       "url": "https://raw.githubusercontent.com/ddgksf2013/Scripts/refs/heads/master/coolapk.js",
       "sha256": "79b28bcbeb4b7b150a21ed20d7d50d9cee2bb91ff5110e9f34dc3be54b0991e4",
@@ -301,6 +315,13 @@
     "mirrors/31c2534f03f3ad0c-qidian.js": {
       "url": "https://raw.githubusercontent.com/ddgksf2013/Scripts/refs/heads/master/qidian.js",
       "sha256": "020399e7a5571227ad7cb7e8515c39bb3b5fbab9874e0ab3c2a6bee5240163a5",
+      "modules": [
+        "Adblock"
+      ]
+    },
+    "mirrors/48085fb91a7c7047-reddit.js": {
+      "url": "https://raw.githubusercontent.com/ddgksf2013/Scripts/refs/heads/master/reddit.js",
+      "sha256": "9fba62bb23f38607739e135376c88c8276d4f26d7e1cac478ad7467cedd0590e",
       "modules": [
         "Adblock"
       ]
@@ -905,6 +926,20 @@
       "sha256": "4e0a57585f4ce16bc2f655ec104d1b25d9d42864b78f3ca893b48e7c9e487bed",
       "modules": [
         "rewrite"
+      ]
+    },
+    "mirrors/b40914c7cd25f5f7-bdpan.ads.js": {
+      "url": "https://royal-block-f6b1.q00.workers.dev/scripts/bdpan.ads.js",
+      "sha256": "2fdc54b1c7acd53df4ac5379485df8c50834859eed20a8b590de2da0df217ac6",
+      "modules": [
+        "Adblock"
+      ]
+    },
+    "mirrors/efdac0f8f746369b-soutushenqi.vip.js": {
+      "url": "https://royal-block-f6b1.q00.workers.dev/scripts/soutushenqi.vip.js",
+      "sha256": "e1ea14e690050eb5d5a40743f4fb5b6b6e2fa4870452dc9f4917e7a1b06e1e6f",
+      "modules": [
+        "Adblock"
       ]
     }
   }
