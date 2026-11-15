@@ -689,6 +689,15 @@ DOMAIN-KEYWORD,-ad.sm.cn,REJECT,extended-matching,pre-matching
 DOMAIN-KEYWORD,-ad.video.yximgs.com,REJECT,extended-matching,pre-matching
 DOMAIN-KEYWORD,-ad.wtzw.com,REJECT,extended-matching,pre-matching
 DOMAIN-KEYWORD,-be-pack-sign.pglstatp-toutiao.com,REJECT,extended-matching,pre-matching
+DOMAIN-SUFFIX,shenshiads.com,REJECT
+DOMAIN-SUFFIX,yfanads.com,REJECT
+DOMAIN-SUFFIX,iyes.youku.com,REJECT
+DOMAIN-SUFFIX,innoads.cn,REJECT
+DOMAIN-SUFFIX,adlog-ztjy.szy.cn,REJECT
+DOMAIN,adstrategy.biz.weibo.com,REJECT
+DOMAIN-SUFFIX,api.touch-moblie.com,REJECT
+DOMAIN-SUFFIX,adlaunch.moji.com,REJECT
+DOMAIN-SUFFIX,ad.10010.com,REJECT
 DOMAIN-KEYWORD,iyes.youku.com,REJECT
 DOMAIN-SUFFIX,apoll.m.taobao.com,REJECT
 DOMAIN-SUFFIX,h-adashx.ut.taobao.com,REJECT
