@@ -68,6 +68,7 @@
       "url": "https://raw.githubusercontent.com/Script-Hub-Org/Script-Hub/main/scripts/replace-body.js",
       "sha256": "1f02ab57c96cffe522bb0ad30acef049d9fb8d35b0132c57552bbe7e26779175",
       "modules": [
+        "Adblock",
         "rewrite"
       ]
     },
